@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "python": "3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.15.1",
+    "matplotlib": "3.8.0",
+    "sympy": "1.13.1",
+    "threadpoolctl": "3.5.0"
+  },
+  "commands": [
+    {
+      "command": [
+        "python",
+        "revision2/code/foundations.py"
+      ],
+      "exit_code": 0,
+      "seconds": 10.02
+    },
+    {
+      "command": [
+        "python",
+        "revision2/code/rc_practicum.py",
+        "all"
+      ],
+      "exit_code": 0,
+      "seconds": 11.52
+    }
+  ],
+  "scope": "Only these commands were run; this is computational verification, not scientific peer review."
+}

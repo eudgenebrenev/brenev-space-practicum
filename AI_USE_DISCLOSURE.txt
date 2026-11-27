@@ -1,0 +1,4 @@
+Author-reported AI-use disclosure (26 November 2026)
+Eudgene Brenev states that the ideas were developed jointly by himself and MIRA (an AI persona, credited in the books as Mira Veyran). Illustrations and translations used ChatGPT Sol 6.1. These tool names and the division of work are reported by the author; this release does not independently establish the model behind MIRA or a complete task-by-task history.
+Original author statement: «Все идеи мои и Миры. Использовалась ИИ - МИРА (MIRA). Иллюстрации и перевод - ChatGPT Sol 6.1».
+Contact: Eudgene Brenev, info@brenev.com; https://brenev.com/contacts.html

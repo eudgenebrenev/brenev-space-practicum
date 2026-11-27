@@ -1,0 +1,1 @@
+These selected examples generate synthetic data or model calculations. Third-party experimental datasets and article PDFs are not bundled.

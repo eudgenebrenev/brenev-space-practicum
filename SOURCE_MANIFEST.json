@@ -1,0 +1,26 @@
+[
+  {
+    "path": "revision2/code/foundations.py",
+    "source_filename": "foundations.py",
+    "sha256": "2765eb7271bd6dd70cff9d0d237264cf497e5b4c6706829c5738ada2de35e007",
+    "bytes": 5118
+  },
+  {
+    "path": "revision2/code/rc_practicum.py",
+    "source_filename": "rc_practicum.py",
+    "sha256": "38644e44751f566e05b8ce006497e456786e9e3f8880f20abd6ff068c75c51cb",
+    "bytes": 23439
+  },
+  {
+    "path": "revision2/code/math_revision.py",
+    "source_filename": "math_revision.py",
+    "sha256": "d6429b70b843cd905862f47707c64dbe39f54c6090c0d1326f43c5568bd77089",
+    "bytes": 30761
+  },
+  {
+    "path": "revision2/code/physics_revision.py",
+    "source_filename": "physics_revision.py",
+    "sha256": "dcc53f708a90dd6137495cc56a632997d42083975a3c315f27b771160d5d980e",
+    "bytes": 25706
+  }
+]

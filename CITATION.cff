@@ -1,0 +1,38 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this software and its source book. Mira Veyran is an AI coauthor / AI persona; retain this role in attribution. Contact: info@brenev.com.",
+  "type": "software",
+  "title": "Space from Within — companion programs",
+  "version": "2026-11-26.1",
+  "date-released": "2026-11-26",
+  "license": "MIT",
+  "url": "https://brenev.com/en/books/s/",
+  "authors": [
+    {
+      "family-names": "Brenev",
+      "given-names": "Eudgene",
+      "email": "info@brenev.com",
+      "website": "https://brenev.com/"
+    },
+    {
+      "name": "Mira Veyran (AI coauthor / AI persona)",
+      "website": "https://brenev.com/mira.html"
+    }
+  ],
+  "preferred-citation": {
+    "type": "book",
+    "title": "Space from Within",
+    "year": 2026,
+    "authors": [
+      {
+        "family-names": "Brenev",
+        "given-names": "Eudgene"
+      },
+      {
+        "name": "Mira Veyran (AI coauthor / AI persona)"
+      }
+    ],
+    "url": "https://brenev.com/en/books/s/",
+    "doi": "10.5281/zenodo.24572503"
+  }
+}
